@@ -604,6 +604,7 @@ input是输入的意思，而在表单元素中`<input>`==标签用于收集用�
     </table>
 </form>
 
+---
 
 - 百度:[http://www.baidu.com](http://www.baidu.com)
 - W3C:[http://www.w3school.com.cn](http://www.w3school.com.cn)
